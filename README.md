@@ -16,21 +16,14 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## Project screenshots:
+![Screenshot 2023-11-27 104717](https://github.com/Seemant-RajSingh/Wisecart/assets/117286608/75fe58b6-e5a7-4c43-bb9e-9069aa362f96)
+![Screenshot 2023-11-27 104811](https://github.com/Seemant-RajSingh/Wisecart/assets/117286608/42ab32ea-e9f1-4a1e-a8db-1f910ca98153)
+![Screenshot 2023-11-27 114042](https://github.com/Seemant-RajSingh/Wisecart/assets/117286608/0939941c-3d3f-4d17-826e-9b383a7a5e37)
+![Screenshot 2023-11-27 114119](https://github.com/Seemant-RajSingh/Wisecart/assets/117286608/cc2cec50-12a2-4069-91fc-7a1ed4b5679a)
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
